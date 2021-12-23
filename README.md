@@ -1,2 +1,2 @@
 # nginx_conf
-nginx configs and setting
+nginx configs and settings
